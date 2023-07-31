@@ -8,11 +8,13 @@ import { registerLicense } from "@syncfusion/ej2-base";
 import Spline from "../src/components/Spline"
 
 function App() {
-  registerLicense(
-    "Ngo9BigBOggjHTQxAR8/V1NGaF5cXmdCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdgWXhed3RQRmFeWU13WEc="
-  );
-    // registerLicense(
-    //   "ORg4AjUWIQA/Gnt2VFhhQlJBfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn5VdkBjX35ecHFdTmdY"
+ // registerLicense() 
+  //  
+ // "Ngo9BigBOggjHTQxAR8/V1NGaF5cXmdCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdgWXhed3RQRmFeWU13WEc="
+ // );
+    // registerLicense()
+    //   
+    //"ORg4AjUWIQA/Gnt2VFhhQlJBfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn5VdkBjX35ecHFdTmdY"
     // );
   return (
     <div>
